@@ -1,9 +1,5 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll'
-gem 'jekyll-assets'
-gem 'maruku'
-gem 'rake'
-gem 'sass'
-gem 'uglifier'
-gem 'github-pages'
+source "https://rubygems.org"
+gemspec
+
